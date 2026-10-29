@@ -122,7 +122,7 @@ export default function CloudDevOpsPage() {
                   <div className="mb-5 flex items-end justify-between">
                     <div>
                       <p className="text-xs text-slate-500">Production cluster</p>
-                      <h3 className="mt-1 text-xl font-semibold text-white">trionex-prod</h3>
+                      <h3 className="mt-1 text-xl font-semibold text-white">techfavours-prod</h3>
                     </div>
                     <span className="rounded-full bg-emerald-400/10 px-3 py-1 text-xs text-emerald-300">Operational</span>
                   </div>

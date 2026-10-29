@@ -238,7 +238,7 @@ export default function ServicesPage() {
           <div>
             <div className="services-hero-item mb-6 inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-white/80 px-4 py-2 text-sm font-medium text-indigo-700 shadow-sm backdrop-blur">
               <Sparkles className="h-4 w-4" />
-              Trionex India · Digital Capabilities
+              TechFavours · Digital Capabilities
             </div>
 
             <h1 className="services-hero-item max-w-4xl text-5xl font-semibold tracking-[-0.04em] text-slate-950 sm:text-6xl lg:text-7xl">
@@ -247,7 +247,7 @@ export default function ServicesPage() {
             </h1>
 
             <p className="services-hero-item mt-7 max-w-2xl text-lg leading-8 text-slate-600 sm:text-xl">
-              Trionex India brings product engineering, cloud infrastructure,
+              TechFavours brings product engineering, cloud infrastructure,
               AI automation, design and growth capabilities together under one
               connected system.
             </p>
@@ -299,9 +299,9 @@ export default function ServicesPage() {
             <div className="hero-pulse absolute left-1/2 top-1/2 flex h-36 w-36 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-indigo-200 bg-white shadow-[0_0_80px_rgba(99,102,241,.22)]">
               <div className="flex h-24 w-24 items-center justify-center rounded-full bg-slate-950 text-center text-white">
                 <div>
-                  <div className="text-lg font-bold">TRIONEX</div>
+                  <div className="text-lg font-bold">TECH</div>
                   <div className="text-[9px] tracking-[0.3em] text-indigo-300">
-                    INDIA
+                    FAVOURS
                   </div>
                 </div>
               </div>
@@ -410,7 +410,7 @@ export default function ServicesPage() {
         <div className="mx-auto max-w-7xl px-6 py-24 lg:px-8 lg:py-32">
           <div className="service-reveal mx-auto max-w-3xl text-center">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-600">
-              The Trionex India System
+              The TechFavours System
             </p>
             <h2 className="mt-4 text-4xl font-semibold tracking-[-0.035em] sm:text-5xl">
               Four capabilities. One connected workflow.
@@ -526,7 +526,7 @@ export default function ServicesPage() {
           <div className="relative grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
             <div>
               <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-300">
-                Trionex India
+                TechFavours · Digital Capabilities
               </p>
               <h2 className="mt-4 max-w-3xl text-4xl font-semibold tracking-[-0.035em] sm:text-5xl">
                 Need more than one service?

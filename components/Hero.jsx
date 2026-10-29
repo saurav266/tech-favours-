@@ -78,7 +78,7 @@ function PreviewScreen({ item, clickable = false }) {
         <div className="relative h-[calc(100%-44px)] overflow-hidden p-8">
           <div className="flex items-center justify-between">
             <div className="text-base font-black text-slate-900">
-              TRIONEX<span className="text-blue-600">.</span>
+              TECHFAVOURS<span className="text-blue-600">.</span>
             </div>
             <div className="hidden gap-6 text-[8px] font-bold text-slate-400 md:flex">
               <span>WORK</span>
@@ -117,7 +117,7 @@ function PreviewScreen({ item, clickable = false }) {
               <Icon size={23} strokeWidth={1.8} />
             </div>
             <span className="text-[8px] font-bold uppercase tracking-[0.25em] text-slate-400">
-              TRIONEX
+              TECHFAVOURS
             </span>
           </div>
 

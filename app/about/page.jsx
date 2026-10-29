@@ -140,7 +140,7 @@ export default function AboutPage() {
           <div>
             <div className="about-reveal mb-7 inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-indigo-50 px-4 py-2 text-sm font-medium text-indigo-700">
               <Sparkles className="h-4 w-4" />
-              About Trionex India
+              About TechFavours
             </div>
 
             <h1 className="about-reveal max-w-4xl text-5xl font-semibold tracking-[-0.045em] sm:text-6xl lg:text-7xl">
@@ -149,7 +149,7 @@ export default function AboutPage() {
             </h1>
 
             <p className="about-reveal mt-7 max-w-2xl text-lg leading-8 text-slate-600">
-              Trionex India brings technology, design, cloud and growth together
+              TechFavours brings technology, design, cloud and growth together
               to turn ambitious ideas into useful digital products and
               scalable business systems.
             </p>
@@ -179,7 +179,7 @@ export default function AboutPage() {
 
             <div className="absolute left-1/2 top-1/2 z-10 flex h-36 w-36 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-slate-950 text-center text-white shadow-[0_20px_80px_rgba(15,23,42,0.25)]">
               <div>
-                <div className="text-xl font-semibold tracking-tight">TRIONEX</div>
+                <div className="text-xl font-semibold tracking-tight">TECHFAVOURS</div>
                 <div className="mt-1 text-[10px] uppercase tracking-[0.3em] text-indigo-300">
                   Digital Systems
                 </div>
@@ -395,12 +395,12 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* WHY TRIONEX */}
+      {/* WHY TECHFAVOURS */}
       <section className="about-section-reveal mx-auto max-w-7xl px-6 pb-28 lg:px-10">
         <div className="grid gap-10 rounded-[2rem] border border-indigo-100 bg-indigo-50/60 p-8 sm:p-12 lg:grid-cols-[1fr_.8fr] lg:p-16">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.22em] text-indigo-600">
-              Why Trionex
+              Why TechFavours
             </p>
             <h2 className="mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">
               The partner behind the product.

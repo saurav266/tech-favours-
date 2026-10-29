@@ -197,7 +197,7 @@ export default function Footer() {
               </span>
 
               <span className="text-xl font-bold tracking-[-0.04em]">
-                trionex<span className="text-indigo-400">.</span>
+                techfavours<span className="text-indigo-400">.</span>
               </span>
             </Link>
 
@@ -208,14 +208,14 @@ export default function Footer() {
 
             <div className="mt-8 space-y-3">
               <a
-                href="mailto:hello@trionexindia.com"
+                href="mailto:hello@techfavours.com"
                 className="group flex items-center gap-3 text-sm text-slate-600 transition-colors hover:text-white"
               >
                 <Mail
                   size={15}
                   className="text-indigo-400"
                 />
-                <span>hello@trionexindia.com</span>
+                <span>hello@techfavours.com</span>
                 <ArrowUpRight
                   size={13}
                   className="opacity-0 transition-all group-hover:translate-x-1 group-hover:-translate-y-1 group-hover:opacity-100"
@@ -304,7 +304,7 @@ export default function Footer() {
         ====================================================== */}
         <section className="footer-reveal flex flex-col gap-5 py-6 text-[10px] uppercase tracking-[0.16em] text-slate-400 md:flex-row md:items-center md:justify-between">
           <div>
-            © {new Date().getFullYear()} Trionex India. All rights reserved.
+            © {new Date().getFullYear()} TechFavours. All rights reserved.
           </div>
 
           <div className="flex flex-wrap gap-x-6 gap-y-2">

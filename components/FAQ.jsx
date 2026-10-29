@@ -12,9 +12,9 @@ import {
 
 const faqs = [
   {
-    question: "What does Trionex India build?",
+    question: "What does TechFavours build?",
     answer:
-      "Trionex India builds websites, web applications, mobile experiences, cloud and DevOps systems, AI agents and business automation workflows. We can work on a focused product or connect multiple capabilities into one digital system.",
+      "TechFavours builds websites, web applications, mobile experiences, cloud and DevOps systems, AI agents and business automation workflows. We can work on a focused product or connect multiple capabilities into one digital system.",
   },
   {
     question: "Can you build a complete product from scratch?",
@@ -37,7 +37,7 @@ const faqs = [
       "Yes. Cloud architecture, containerization, CI/CD, Kubernetes, deployment automation, monitoring and infrastructure workflows are part of our engineering capabilities.",
   },
   {
-    question: "Can Trionex India integrate AI into an existing business?",
+    question: "Can TechFavours integrate AI into an existing business?",
     answer:
       "Yes. AI can be introduced through agents, LLM APIs, workflow automation, internal tools, customer-facing features and integrations. The implementation should be based on a practical business use case rather than adding AI only for appearance.",
   },
@@ -105,7 +105,7 @@ export default function FAQ() {
         <div className="mx-auto max-w-3xl text-center" data-faq-reveal>
           <div className="inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-white px-4 py-2 text-sm font-semibold text-indigo-600 shadow-sm">
             <Sparkles size={15} />
-            FAQ · TRIONEX INDIA
+            FAQ · TECHFAOURS
           </div>
 
           <h2 className="mt-6 text-5xl font-bold tracking-[-0.045em] md:text-6xl">
@@ -114,7 +114,7 @@ export default function FAQ() {
           </h2>
 
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-            A few answers to help you understand how Trionex India works,
+            A few answers to help you understand how TechFavours works,
             what we build and how we can approach your next project.
           </p>
         </div>
@@ -225,7 +225,7 @@ export default function FAQ() {
                   href="/contact"
                   className="group mt-6 flex w-full items-center justify-center gap-2 rounded-full bg-white px-5 py-3.5 font-semibold text-slate-950 transition-all duration-300 hover:bg-indigo-50"
                 >
-                  Talk to Trionex India
+                  Talk to TechFavours
                   <ArrowRight
                     size={18}
                     className="transition-transform duration-300 group-hover:translate-x-1"

@@ -72,7 +72,7 @@ export default function FinalCTA() {
         <div className="flex items-center justify-between gap-6" data-cta-reveal>
           <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.05] px-4 py-2 text-sm font-semibold text-indigo-300 backdrop-blur">
             <Sparkles size={15} />
-            TRIONEX INDIA
+            TECHFAVOURS
           </div>
 
           <div className="hidden items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-slate-500 md:flex">
@@ -94,7 +94,7 @@ export default function FinalCTA() {
             </h2>
 
             <p className="mt-7 max-w-2xl text-lg leading-8 text-slate-400 md:text-xl">
-              Tell Trionex India what you are trying to create, improve or
+              Tell TechFavours what you are trying to create, improve or
               automate. We will help turn the idea into a clear technology
               roadmap and a practical next step.
             </p>
@@ -143,7 +143,7 @@ export default function FinalCTA() {
 
             <div className="relative flex h-40 w-40 flex-col items-center justify-center rounded-full border border-indigo-300/30 bg-white/[0.04] shadow-[0_0_100px_rgba(99,102,241,0.25)] backdrop-blur">
               <div className="text-sm font-bold tracking-[0.25em] text-indigo-300">
-                TRIONEX
+                TECHFAVOURS
               </div>
               <div className="mt-1 text-xl font-bold tracking-[0.15em] text-white">
                 INDIA
@@ -211,7 +211,7 @@ export default function FinalCTA() {
             href="/contact"
             className="text-sm font-bold text-white transition-colors hover:text-indigo-300"
           >
-            Contact Trionex India →
+            Contact TechFavours →
           </Link>
         </div>
       </div>

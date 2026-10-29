@@ -147,7 +147,7 @@ export default function Process() {
 
           <div data-process-reveal className="lg:pb-2">
             <p className="max-w-2xl text-lg leading-8 text-slate-600">
-              Trionex India follows a structured process that keeps business
+              TechFavours follows a structured process that keeps business
               goals, product experience and engineering execution connected
               from the first conversation through continuous improvement.
             </p>
@@ -232,7 +232,7 @@ export default function Process() {
                   <Zap size={19} />
                 </div>
                 <span className="text-sm font-bold uppercase tracking-[0.18em] text-indigo-300">
-                  Trionex India Delivery System
+                  TechFavours Delivery System
                 </span>
               </div>
 

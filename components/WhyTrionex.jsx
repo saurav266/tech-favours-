@@ -39,12 +39,12 @@ const reasons = [
   },
 ];
 
-export default function WhyTrionexIndia() {
+export default function WhyTechFavours() {
   const sectionRef = useRef(null);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
-      gsap.from(".why-trionex-reveal", {
+      gsap.from(".why-techfavours-reveal", {
         y: 45,
         opacity: 0,
         duration: 0.8,
@@ -56,7 +56,7 @@ export default function WhyTrionexIndia() {
         },
       });
 
-      gsap.to(".why-trionex-glow", {
+      gsap.to(".why-techfavours-glow", {
         y: -18,
         x: 12,
         duration: 4,
@@ -76,7 +76,7 @@ export default function WhyTrionexIndia() {
     >
       {/* Background decoration */}
       <div className="pointer-events-none absolute inset-0">
-        <div className="why-trionex-glow absolute -right-32 top-10 h-80 w-80 rounded-full bg-indigo-200/30 blur-3xl" />
+        <div className="why-techfavours-glow absolute -right-32 top-10 h-80 w-80 rounded-full bg-indigo-200/30 blur-3xl" />
         <div className="absolute -left-32 bottom-10 h-72 w-72 rounded-full bg-blue-100/40 blur-3xl" />
 
         <div
@@ -91,10 +91,10 @@ export default function WhyTrionexIndia() {
 
       <div className="relative mx-auto max-w-7xl">
         {/* Heading */}
-        <div className="why-trionex-reveal max-w-4xl">
+        <div className="why-techfavours-reveal max-w-4xl">
           <div className="mb-5 inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-white px-4 py-2 text-xs font-bold uppercase tracking-[0.18em] text-indigo-600 shadow-sm">
             <CheckCircle2 size={14} />
-            Why Trionex India
+            Why TechFavours
           </div>
 
           <h2 className="text-4xl font-semibold leading-[1.05] tracking-tight text-slate-950 sm:text-5xl lg:text-6xl">
@@ -105,19 +105,19 @@ export default function WhyTrionexIndia() {
           </h2>
 
           <p className="mt-7 max-w-3xl text-lg leading-8 text-slate-600">
-            Trionex India brings product thinking, engineering, cloud,
+            TechFavours brings product thinking, engineering, cloud,
             automation and digital growth together to create systems that
             support real business goals.
           </p>
         </div>
 
         {/* Main trust panel */}
-        <div className="why-trionex-reveal mt-14 overflow-hidden rounded-[2rem] border border-slate-200 bg-white shadow-[0_25px_80px_rgba(15,23,42,0.07)]">
+        <div className="why-techfavours-reveal mt-14 overflow-hidden rounded-[2rem] border border-slate-200 bg-white shadow-[0_25px_80px_rgba(15,23,42,0.07)]">
           <div className="grid lg:grid-cols-[1.05fr_0.95fr]">
             {/* Left */}
             <div className="relative p-8 sm:p-10 lg:p-14">
               <div className="absolute right-8 top-8 text-xs font-bold uppercase tracking-[0.2em] text-slate-300">
-                TRIONEX INDIA
+                TECHFAVOURS
               </div>
 
               <div className="max-w-xl">
@@ -174,7 +174,7 @@ export default function WhyTrionexIndia() {
 
                 <div className="relative z-10 flex h-32 w-32 flex-col items-center justify-center rounded-full border border-indigo-300/30 bg-white/[0.06] text-center shadow-[0_0_70px_rgba(99,102,241,0.2)] backdrop-blur">
                   <div className="text-xl font-bold tracking-tight text-white">
-                    TRIONEX
+                    TECHFAVOURS
                   </div>
                   <div className="mt-1 text-[9px] font-semibold uppercase tracking-[0.25em] text-indigo-300">
                     INDIA
@@ -209,7 +209,7 @@ export default function WhyTrionexIndia() {
             return (
               <article
                 key={item.number}
-                className="why-trionex-reveal group rounded-3xl border border-slate-200 bg-white p-7 shadow-sm transition-all duration-500 hover:-translate-y-1 hover:border-indigo-200 hover:shadow-xl sm:p-8"
+                className="why-techfavours-reveal group rounded-3xl border border-slate-200 bg-white p-7 shadow-sm transition-all duration-500 hover:-translate-y-1 hover:border-indigo-200 hover:shadow-xl sm:p-8"
               >
                 <div className="flex items-start justify-between">
                   <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-indigo-50 text-indigo-600 transition duration-500 group-hover:rotate-6 group-hover:bg-indigo-600 group-hover:text-white">
@@ -234,7 +234,7 @@ export default function WhyTrionexIndia() {
         </div>
 
         {/* Bottom positioning statement */}
-        <div className="why-trionex-reveal mt-10 flex flex-col justify-between gap-6 rounded-3xl border border-indigo-100 bg-indigo-50/60 p-7 sm:p-8 lg:flex-row lg:items-center">
+        <div className="why-techfavours-reveal mt-10 flex flex-col justify-between gap-6 rounded-3xl border border-indigo-100 bg-indigo-50/60 p-7 sm:p-8 lg:flex-row lg:items-center">
           <div>
             <p className="text-xl font-semibold text-slate-950">
               Think bigger than a website.
@@ -248,7 +248,7 @@ export default function WhyTrionexIndia() {
             href="/about"
             className="inline-flex w-fit items-center gap-2 rounded-full bg-slate-950 px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-indigo-600"
           >
-            Discover Trionex India
+            Discover TechFavours
             <ArrowUpRight size={17} />
           </Link>
         </div>

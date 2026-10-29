@@ -143,7 +143,7 @@ export default function UIUXDesignPage() {
                   <span className="h-2.5 w-2.5 rounded-full bg-emerald-300" />
                 </div>
                 <div className="rounded-md bg-slate-50 px-4 py-1.5 text-[9px] text-slate-400">
-                  product.trionex.design
+                  product.techfavours.design
                 </div>
                 <div className="w-10" />
               </div>

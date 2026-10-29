@@ -92,7 +92,7 @@ export default function ContactPage() {
             <div data-contact-reveal>
               <div className="inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-indigo-50 px-4 py-2 text-sm font-semibold text-indigo-600">
                 <Sparkles size={15} />
-                CONTACT · TRIONEX INDIA
+                CONTACT · TECHFAVOURS
               </div>
 
               <h1 className="mt-7 max-w-5xl text-5xl font-bold tracking-[-0.055em] md:text-7xl lg:text-8xl">
@@ -300,7 +300,7 @@ export default function ContactPage() {
 
                 <p className="mt-4 max-w-md leading-7 text-slate-500">
                   Connect this form to your preferred email or backend endpoint
-                  to send the enquiry to the Trionex India team.
+                  to send the enquiry to the TechFavours team.
                 </p>
 
                 <button
@@ -323,7 +323,7 @@ export default function ContactPage() {
               <div className="flex items-center gap-3">
                 <Sparkles size={19} className="text-indigo-300" />
                 <span className="text-xs font-bold uppercase tracking-[0.18em] text-indigo-300">
-                  Trionex India
+                  TechFavours
                 </span>
               </div>
 
@@ -339,14 +339,14 @@ export default function ContactPage() {
 
               <div className="mt-8 space-y-3">
                 <a
-                  href="mailto:hello@trionexindia.com"
+                  href="mailto:hello@techfavours.com"
                   className="flex items-center gap-4 rounded-2xl border border-white/10 bg-white/[0.04] p-4 transition hover:bg-white/[0.08]"
                 >
                   <Mail size={19} className="text-indigo-300" />
                   <div>
                     <p className="text-xs text-slate-500">Email</p>
                     <p className="mt-1 text-sm font-semibold">
-                      hello@trionexindia.com
+                      hello@techfavours.com
                     </p>
                   </div>
                 </a>
@@ -431,7 +431,7 @@ export default function ContactPage() {
         >
           <div>
             <p className="text-sm font-bold uppercase tracking-[0.18em] text-indigo-100">
-              Trionex India
+             TechFavours
             </p>
             <h2 className="mt-3 text-3xl font-bold tracking-tight text-white md:text-4xl">
               Have a project in mind?
@@ -445,7 +445,7 @@ export default function ContactPage() {
             href="/"
             className="group inline-flex items-center gap-2 rounded-full bg-white px-6 py-3.5 font-semibold text-indigo-700 transition hover:bg-indigo-50"
           >
-            Back to Trionex India
+            Back to TechFavours
             <ArrowRight
               size={18}
               className="transition-transform group-hover:translate-x-1"

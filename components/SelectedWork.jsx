@@ -219,7 +219,7 @@ export default function SelectedWork() {
           <div data-work-reveal>
             <div className="inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-white px-4 py-2 text-sm font-semibold text-indigo-600 shadow-sm">
               <Sparkles size={15} />
-              SELECTED WORK · TRIONEX INDIA
+              SELECTED WORK · TECHFAVOURS
             </div>
 
             <h2 className="mt-6 max-w-4xl text-5xl font-bold tracking-[-0.045em] md:text-6xl">
@@ -357,7 +357,7 @@ export default function SelectedWork() {
           className="mt-8 flex flex-col items-start justify-between gap-4 border-t border-slate-200 pt-7 md:flex-row md:items-center"
         >
           <p className="text-sm text-slate-500">
-            Selected work represents the capabilities Trionex India can bring
+            Selected work represents the capabilities TechFavours can bring
             together for a project.
           </p>
 

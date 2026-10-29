@@ -228,7 +228,7 @@ export default function DigitalSystem() {
         >
           <div className="inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-indigo-50 px-4 py-2 text-sm font-semibold text-indigo-600">
             <Workflow size={15} />
-            THE TRIONEX INDIA DIGITAL SYSTEM
+            THE TECHFAVOURS DIGITAL SYSTEM
           </div>
 
           <h2 className="mt-6 text-5xl font-bold tracking-[-0.05em] md:text-7xl">
@@ -240,7 +240,7 @@ export default function DigitalSystem() {
 
           <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-600">
             Instead of treating development, infrastructure, design, AI and
-            growth as separate services, Trionex India connects them into one
+            growth as separate services, TechFavours connects them into one
             digital operating system.
           </p>
         </div>
@@ -318,7 +318,7 @@ export default function DigitalSystem() {
             {/* Core */}
             <div className="absolute left-1/2 top-1/2 z-20 flex h-36 w-36 -translate-x-1/2 -translate-y-1/2 flex-col items-center justify-center rounded-full border border-indigo-200 bg-white shadow-[0_0_70px_rgba(99,102,241,0.20)]">
               <div className="text-[11px] font-bold tracking-[0.22em] text-indigo-600">
-                TRIONEX
+                TECHFAVOURS
               </div>
               <div className="mt-1 text-xl font-bold tracking-[0.12em] text-slate-950">
                 INDIA

@@ -234,7 +234,7 @@ export default function AnimatedDigitalSystem() {
         {/* Header */}
         <div className="absolute left-7 right-7 top-6 z-50 flex items-center justify-between">
           <span className="font-mono text-[9px] tracking-[.24em] text-slate-400">
-            TRIONEX / DIGITAL SYSTEM
+            TECHFAVOURS / DIGITAL SYSTEM
           </span>
 
           <span className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/90 px-3.5 py-2 text-[9px] font-bold tracking-[.16em] text-slate-500 shadow-sm backdrop-blur">

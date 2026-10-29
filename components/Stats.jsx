@@ -195,7 +195,7 @@ export default function Stats() {
 
           <div className="hidden shrink-0 text-right lg:block">
             <div className="text-xs font-medium uppercase tracking-[0.22em] text-slate-400">
-              TRIONEX / PERFORMANCE
+              TECHFAVOURS / PERFORMANCE
             </div>
             <div className="mt-2 text-sm text-slate-500">
               Data-led. Founder-led. Built to scale.

@@ -110,7 +110,7 @@ function PhoneMockup({ compact = false }) {
             <div className="flex items-center justify-between">
               <div>
                 <p className="text-[9px] font-bold uppercase tracking-[0.18em] text-indigo-600">
-                  TRIONEX
+                  TECHFAVOURS
                 </p>
                 <p className="mt-1 text-[8px] text-slate-400">Good morning</p>
               </div>
@@ -282,7 +282,7 @@ export default function MobileAppDevelopmentPage() {
           <div className="hero-copy">
             <div className="inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-white/90 px-4 py-2 text-sm font-semibold text-indigo-700 shadow-sm">
               <Sparkles className="h-4 w-4" />
-              Trionex India · Mobile Product Engineering
+              TechFavours · Mobile Product Engineering
             </div>
 
             <h1 className="mt-7 max-w-3xl text-5xl font-semibold leading-[1.02] tracking-[-0.055em] sm:text-6xl lg:text-[70px]">
@@ -877,7 +877,7 @@ export default function MobileAppDevelopmentPage() {
           <div className="relative grid gap-14 lg:grid-cols-[1fr_auto] lg:items-center">
             <div className="max-w-3xl">
               <p className="text-sm font-bold uppercase tracking-[0.2em] text-indigo-300">
-                Trionex India · Mobile
+                TechFavours · Mobile
               </p>
               <h2 className="mt-5 text-4xl font-semibold tracking-[-0.045em] sm:text-6xl">
                 Have an app idea?

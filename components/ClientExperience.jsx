@@ -99,7 +99,7 @@ export default function ClientExperience() {
           <div data-client-reveal>
             <div className="inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-indigo-50 px-4 py-2 text-sm font-semibold text-indigo-600">
               <Sparkles size={15} />
-              THE TRIONEX INDIA EXPERIENCE
+              THE TECHFAVOURS EXPERIENCE
             </div>
 
             <h2 className="mt-6 max-w-4xl text-5xl font-bold tracking-[-0.045em] md:text-6xl">
@@ -144,7 +144,7 @@ export default function ClientExperience() {
               <div className="absolute left-1/2 top-1/2 flex h-28 w-28 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-indigo-300/40 bg-indigo-500/10 shadow-[0_0_80px_rgba(99,102,241,0.35)]">
                 <div className="text-center">
                   <div className="text-xs font-bold tracking-[0.2em] text-indigo-300">
-                    TRIONEX
+                    TECHFAVOURS
                   </div>
                   <div className="mt-1 text-sm font-semibold text-white">
                     INDIA
@@ -242,7 +242,7 @@ export default function ClientExperience() {
               href="/about"
               className="group mt-7 inline-flex items-center gap-2 font-semibold text-slate-950 hover:text-indigo-600"
             >
-              Learn about Trionex India
+              Learn about TechFavours
               <ArrowRight
                 size={17}
                 className="transition-transform duration-300 group-hover:translate-x-1"

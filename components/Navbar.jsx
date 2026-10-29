@@ -1,5 +1,5 @@
 "use client";
-
+import Image from "next/image";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import {
@@ -137,19 +137,20 @@ export default function Navbar() {
       >
         <nav className="flex h-[72px] items-center justify-between px-5 lg:px-7">
           {/* Logo */}
-          <Link
-            href="/"
-            onClick={closeMenus}
-            className="group flex shrink-0 items-center gap-3"
-          >
-            <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#111827] text-lg font-black text-white shadow-lg transition-all duration-300 group-hover:rotate-3 group-hover:bg-blue-600">
-              T
-            </span>
-
-            <span className="text-[20px] font-black tracking-[-0.055em] text-slate-900">
-              TRIONEX<span className="text-blue-600">.</span>
-            </span>
-          </Link>
+         <Link
+  href="/"
+  onClick={closeMenus}
+  className="flex shrink-0 items-center"
+>
+  <Image
+    src="/techfavours-full-logo-navbar.png"
+    alt="TechFavours — Ideas, Technology, Real Impact"
+    width={150}
+    height={100}
+    priority
+    className="h-auto w-[125px] object-contain sm:w-[150px]"
+  />
+</Link>
 
           {/* Desktop Navigation */}
           <div className="hidden items-center gap-1 lg:flex">

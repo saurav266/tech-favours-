@@ -288,7 +288,7 @@ export default function Services() {
 
           <p className="mt-4 text-xl font-black tracking-[-0.04em] text-slate-900">
 
-            TRIONEX<span className="text-blue-600">.</span>
+            TECHFAVOURS<span className="text-blue-600">.</span>
 
           </p>
 

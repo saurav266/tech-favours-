@@ -153,7 +153,7 @@ export default function Technology() {
         <div className="mx-auto max-w-3xl text-center">
           <div className="mb-5 inline-flex items-center gap-2 rounded-full border border-indigo-100 bg-white px-4 py-2 text-sm font-semibold text-indigo-600 shadow-sm">
             <span className="h-2 w-2 rounded-full bg-indigo-500" />
-            TRIONEX INDIA · TECHNOLOGY
+            TECHFAVOURS · TECHNOLOGY
           </div>
 
           <h2 className="text-5xl font-bold tracking-[-0.04em] text-slate-950 md:text-6xl">
@@ -189,7 +189,7 @@ export default function Technology() {
               </h3>
 
               <p className="mt-5 max-w-xl text-base leading-7 text-slate-600">
-                Trionex India connects product design, application engineering,
+                TechFavours connects product design, application engineering,
                 infrastructure, delivery and intelligent automation into one
                 coordinated workflow.
               </p>
@@ -231,7 +231,7 @@ export default function Technology() {
                 <div className="relative flex h-28 w-28 items-center justify-center rounded-full border border-indigo-300/40 bg-indigo-500/10 shadow-[0_0_70px_rgba(99,102,241,0.35)]">
                   <div className="text-center">
                     <div className="text-xs font-bold tracking-[0.22em] text-indigo-300">
-                      TRIONEX
+                      TECHFAVOURS
                     </div>
                     <div className="mt-1 text-sm font-semibold text-white">
                       INDIA
