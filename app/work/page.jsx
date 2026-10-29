@@ -168,7 +168,7 @@ export default function WorkPage() {
           <div>
             <div className="work-hero-item inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-indigo-50 px-4 py-2 text-sm font-medium text-indigo-700">
               <Sparkles className="h-4 w-4" />
-              Selected work · Trionex India
+              Selected work · TechFavours
             </div>
 
             <h1 className="work-hero-item mt-7 max-w-4xl text-5xl font-semibold tracking-[-0.05em] sm:text-6xl lg:text-7xl">
@@ -207,7 +207,10 @@ export default function WorkPage() {
 
             <div className="absolute left-1/2 top-1/2 z-10 flex h-36 w-36 -translate-x-1/2 -translate-y-1/2 flex-col items-center justify-center rounded-full bg-slate-950 text-white shadow-[0_20px_80px_rgba(15,23,42,0.25)]">
               <div className="text-xl font-semibold tracking-tight">
-                TRIONEX
+                TECH
+              </div>
+              <div className="mt-1 text-[10px] uppercase tracking-[0.3em] text-indigo-300">
+                FAVOURS
               </div>
               <div className="mt-1 text-[10px] uppercase tracking-[0.3em] text-indigo-300">
                 India
@@ -462,7 +465,7 @@ export default function WorkPage() {
 
             <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-400">
               Bring us the idea, the problem or the next stage of your
-              business. Trionex India can help shape the system behind it.
+              business. TechFavours can help shape the system behind it.
             </p>
 
             <Link
