@@ -9,7 +9,7 @@ import {
   Target,
   Users,
   Zap,
-} from "lucide-react";
+} from "lucide-react" ;
 import Link from "next/link";
 
 const reasons = [
